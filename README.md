@@ -161,13 +161,12 @@ The default setup has no authentication and uses local MongoDB, so it is for loc
 2. **Add environment variables in Vercel dashboard**
 3. **Deploy automatically on every push to main branch**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sahandghavidel/next-expense-tracker-ai)
+
 
 ## 📎 Useful Links
 
 - **[MongoDB Community Server](https://www.mongodb.com/try/download/community)** - Local database
 - **[Gemini API key](https://aistudio.google.com/apikey)** - Optional AI features
-- **[GitHub Repository](https://github.com/sahandghavidel/next-expense-tracker-ai)** - Source code
 - **[Database Diagram](https://app.eraser.io/workspace/XhlJP6Rdmx6nrGR0SpKz?origin=share)** - Visual schema
 - **[Next.js Documentation](https://nextjs.org)** - Framework docs
 - **[Tailwind CSS](https://tailwindcss.com)** - Styling framework
